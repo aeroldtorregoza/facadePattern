@@ -1,4 +1,4 @@
-public class Cart implements HotelService{
+    public class Cart implements HotelService{
     private int numberOfCarts;
 
     public Cart(int numberOfCarts) {
